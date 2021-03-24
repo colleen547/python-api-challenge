@@ -2,7 +2,7 @@
 ***What's the Weather Like?***
 
 <b>BACKGROUND</b><br>
-Using Python requests, APIs, and JSON to answer the question: "What's the weather like as we approach the equator?"
+Python requests, APIs, and JSON were used to answer the question: "What's the weather like as we approach the equator?"
 
 <b>DETAILS</b><br>
 <b>Part I - WeatherPy</b><br>
