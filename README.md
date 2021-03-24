@@ -1,7 +1,7 @@
 # python-api-challenge
 ***What's the Weather Like?***
-<div style="text-align:center"><img src="static/images/beach_sunset_palmtree.jfif" width="1000" height="300"/></div>
-<div align="center"><img src="static/images/beach_sunset_palmtree.jfif" width="500" height="300"/></div>
+<div style="text-align:center"><img src="static/images/heatmap.png" width="1000" height="300"/></div>
+
 <b>BACKGROUND</b><br>
 Python requests, APIs, and JSON were used to answer the question: "What's the weather like as we approach the equator?"
 
@@ -25,8 +25,7 @@ Second, a linear regression was ran on each relationship after separate the citi
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude<br>
 
-<div style="text-align:center"><img src="static/images/heatmap.png" width="1000" height="300"/></div>
-'<div align="center"><img src="static/images/heatmap.png" width="500" height="300"/></div>
+<div align="center"><img src="static/images/beach_sunset_palmtree.jfif" width="500" height="300"/></div>
 
 <b>Part II - VacationPy</b><br>
 Using jupyter-gmaps and the Google Places API, weather data was used to plan future vacations.
@@ -43,15 +42,9 @@ Any rows that didn't contain all three conditions were dropped to find my ideal 
 
 Note: Specifications were adjusted to limit the number of rows returned by the API requests to a reasonable number such as 10.
 
-
-
-
 The Google Places API was used to find the first hotel for each city located within 5000 meters of your coordinates.
 
-
 Hotels were plotted on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country.
-
-
 
 <b>Additional considerations:</b>
 
