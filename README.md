@@ -1,11 +1,11 @@
 # python-api-challenge
 ***What's the Weather Like?***
 
-BACKGROUND<br>
+<b>BACKGROUND</b><br>
 Using Python requests, APIs, and JSON to answer the question: "What's the weather like as we approach the equator?"
 
-DETAILS<br>
-Part I - WeatherPy<br>
+<b>DETAILS</b><br>
+<b>Part I - WeatherPy</b><br>
 A Python script was created to visualize the weather of ~500 unique (non-repeat) cities across the world, at varying distances from the equator using Python library Citipy and the OpenWeatherMap API.<br>
 
 First, a series of scatter plots were creted to showcase the following relationships:<br>
@@ -24,7 +24,7 @@ Second, a linear regression was ran on each relationship after separate the citi
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude<br>
 
-Part II - VacationPy<br>
+<b>Part II - VacationPy</b><br>
 Using jupyter-gmaps and the Google Places API, weather data was used to plan future vacations.
 
 First, a heat map was created to display the humidity for every city from Part I - WeatherPy.
@@ -37,7 +37,7 @@ Next the DataFrame was narrowed down to find my own ideal weather conditions suc
 Any rows that didn't contain all three conditions were dropped to find my ideal weather conditions.
 
 
-Note: Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number like 10.
+Note: Specifications were adjusted to limit the number of rows returned by the API requests to a reasonable number such as 10.
 
 
 
@@ -49,12 +49,12 @@ Hotels were plotted on top of the humidity heatmap, with each pin containing the
 
 
 
-As final considerations:
+<b>Additional considerations:</b>
 
-You must complete your analysis using a Jupyter notebook.
-You must use the Matplotlib or Pandas plotting libraries.
-For Part I, you must include a written description of three observable trends based on the data. You can do this right in the Jupyter notebook.
-You must use proper labeling of your plots, including plot titles (with date of analysis) and axis labels.
-For best results on the heat map, try setting the the maximum intensity value to the highest humidity level found in the data set.
+The analysis was completed using a Jupyter notebook.
+Matplotlib and Pandas plotting libraries were used.
+For Part I, a written description of three observable trends based on the data, were included in the Jupyter notebook.
+Proper labeling of plots, including plot titles (with date of analysis) and axis labels, were included.
+For best results on the heat map, the maximum intensity value was set to the highest humidity level found in the data set.
 
 
