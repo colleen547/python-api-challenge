@@ -1,6 +1,6 @@
 # python-api-challenge
 ***What's the Weather Like?***
-
+<div align="center"><img src="static/images/beach_sunset_palmtree.jfif" width="500" height="300"/></div>
 <b>BACKGROUND</b><br>
 Python requests, APIs, and JSON were used to answer the question: "What's the weather like as we approach the equator?"
 
@@ -23,6 +23,8 @@ Second, a linear regression was ran on each relationship after separate the citi
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude<br>
+
+<div align="center"><img src="static/images/heatmap.png" width="500" height="300"/></div>
 
 <b>Part II - VacationPy</b><br>
 Using jupyter-gmaps and the Google Places API, weather data was used to plan future vacations.
