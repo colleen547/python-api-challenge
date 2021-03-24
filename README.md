@@ -1,5 +1,6 @@
 # python-api-challenge
 ***What's the Weather Like?***
+<div style="text-align:center"><img src="static/images/beach_sunset_palmtree.jfif" width="1000" height="300"/></div>
 <div align="center"><img src="static/images/beach_sunset_palmtree.jfif" width="500" height="300"/></div>
 <b>BACKGROUND</b><br>
 Python requests, APIs, and JSON were used to answer the question: "What's the weather like as we approach the equator?"
@@ -54,10 +55,10 @@ Hotels were plotted on top of the humidity heatmap, with each pin containing the
 
 <b>Additional considerations:</b>
 
-The analysis was completed using a Jupyter notebook.
-Matplotlib and Pandas plotting libraries were used.
-For Part I, a written description of three observable trends based on the data, were included in the Jupyter notebook.
-Proper labeling of plots, including plot titles (with date of analysis) and axis labels, were included.
-For best results on the heat map, the maximum intensity value was set to the highest humidity level found in the data set.
+ - The analysis was completed using a Jupyter notebook.
+ - Matplotlib and Pandas plotting libraries were used.
+ - For Part I, a written description of three observable trends based on the data, were included in the Jupyter notebook.
+ - Proper labeling of plots, including plot titles (with date of analysis) and axis labels, were included.
+ - For best results on the heat map, the maximum intensity value was set to the highest humidity level found in the data set.
 
 
