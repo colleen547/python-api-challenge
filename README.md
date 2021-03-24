@@ -45,7 +45,9 @@ Note: Specifications were adjusted to limit the number of rows returned by the A
 The Google Places API was used to find the first hotel for each city located within 5000 meters of your coordinates.
 
 Hotels were plotted on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country.
+
 <br>
+
 <b>Additional considerations:</b>
 
  - The analysis was completed using a Jupyter notebook.
