@@ -24,7 +24,8 @@ Second, a linear regression was ran on each relationship after separate the citi
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude<br>
 
-<div align="center"><img src="static/images/heatmap.png" width="500" height="300"/></div>
+<div style="text-align:center"><img src="static/images/heatmap.png" width="1000" height="300"/></div>
+'<div align="center"><img src="static/images/heatmap.png" width="500" height="300"/></div>
 
 <b>Part II - VacationPy</b><br>
 Using jupyter-gmaps and the Google Places API, weather data was used to plan future vacations.
